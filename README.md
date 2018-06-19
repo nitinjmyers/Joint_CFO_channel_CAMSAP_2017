@@ -20,6 +20,9 @@ For more details on the algorithm and implementation, please contact me at nitin
 I will post the codes for [2] and [3] as soon as they get published on IEEE Xplore. 
 
 All of the following papers are also available on arxiv. 
+
 [1] N.J. Myers and R. W. Heath Jr., "Joint CFO and Channel Estimation in Millimeter Wave Systems with One-Bit ADCs", in Proc. of IEEE CAMSAP 2017
+
 [2] N.J. Myers and R. W. Heath Jr., "Message passing-based joint CFO and channel estimation in millimeter wave systems with one-bit ADCs", submitted to IEEE Transactions on Wireless Communications, March 2018 
+
 [3] N.J. Myers, A. Mezghani and R. W. Heath Jr., "Swift-Link : A compressive beam alignment algorithm for practical mmWave radios", submitted to IEEE Transactions on Signal Processing, June 2018 
