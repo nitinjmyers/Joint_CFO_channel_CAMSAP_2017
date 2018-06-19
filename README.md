@@ -17,7 +17,7 @@ A main drawback of our joint estimation algorithm for one-bit ADCs (CAMSAP) is d
 
 Our new algorithm called Swift-Link [3] approaches the joint estimation problem from a robust training design perspective. Swift-Link controls the impact of CFO on the beamspace estimate and has lower-complexity than [1] and [2]. Swift-Link runs as fast as a standard compressed sensing problem with partial DFT-based measurement matrices. Swift-Link's training and algorithm are very easy to implement when compared to those in [1] and [2]. Furthermore, it's extension to other architectures like hybrid beamforming, switching or one-bit receivers are straightforward. 
 
-For more details on these algorithms and implementation, please contact me at nitinjmyers@utexas.edu 
+For more details on these algorithms and implementation, please contact me at nitinjmyers@utexas.edu .
 I will post the codes for [2] and [3] as soon as they get published on IEEE Xplore. 
 
 All of the following papers are also available on arxiv. 
@@ -27,3 +27,7 @@ All of the following papers are also available on arxiv.
 [2] N.J. Myers and R. W. Heath Jr., "Message passing-based joint CFO and channel estimation in millimeter wave systems with one-bit ADCs", submitted to IEEE Transactions on Wireless Communications, March 2018 
 
 [3] N.J. Myers, A. Mezghani and R. W. Heath Jr., "Swift-Link : A compressive beam alignment algorithm for practical mmWave radios", submitted to IEEE Transactions on Signal Processing, June 2018 
+
+Find more information about our research at 
+http://www.profheath.org/
+https://sites.google.com/site/nitinmyers/home
