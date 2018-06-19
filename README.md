@@ -29,5 +29,7 @@ All of the following papers are also available on arxiv.
 [3] N.J. Myers, A. Mezghani and R. W. Heath Jr., "Swift-Link : A compressive beam alignment algorithm for practical mmWave radios", submitted to IEEE Transactions on Signal Processing, June 2018 
 
 Find more information about our research at 
+
 http://www.profheath.org/
+
 https://sites.google.com/site/nitinmyers/home
